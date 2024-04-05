@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allous-pun" alt="allous-pun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@_allois" target="blank"><img src="https://img.shields.io/twitter/follow/@_allois?logo=twitter&style=for-the-badge" alt="@_allois" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@_allois" target="blank"><img src="https://img.shields.io/twitter/follow/_allois?logo=twitter&style=for-the-badge" alt="@_allois" /></a> </p>
 
 - 🔭 I’m currently working on **node.js project**
 
